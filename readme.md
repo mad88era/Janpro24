@@ -26,3 +26,19 @@ WHEN I load my portfolio
 
 * WHEN I resize the page or view the site on various screens and devices
 * THEN I present with a responsive layout that adapts to my viewport
+
+## Assets
+
+The followwing image demonstrates the web application's appearance:
+
+![
+](<Screenshot 2024-01-06 172627.png>)
+![Alt text](<Screenshot 2024-01-06 172640.png>)
+
+## Credits
+
+Acknowledgements: Used previous class lessons for reference
+
+## License
+
+MIT License (please refer to license in repo)
