@@ -1,2 +1,2 @@
 # Janpro24
-First project for 24
+Display project for 24
